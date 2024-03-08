@@ -1,0 +1,54 @@
+.weather-conditions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.weather-conditions-text {
+    color: #fff;
+    font-size: 18px;
+}
+.temperature-char {
+display: flex;
+    justify-content: space-around; 
+    align-items: center;
+}
+
+.temperature {
+    font-size: 25px;
+    color: #fff;
+}
+.temp-info-details {
+    display: flex;
+    flex-direction: column;
+}
+.temp-info-details-item {
+    display: flex;
+    color: #fff;
+}
+.temp-details-icons {
+    color: #fff;
+    margin-right: 3px ;
+}
+.temp-info-details-unit {
+    margin-left: 5px;
+}
+.sun-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.sun-icons {
+    margin-right: 3px;
+    color: #fff;
+}
+.sun-details-items {
+    margin-right: 3px;
+    color: #fff;
+}
+.sun-details-item {
+    margin-left: 5px;
+}
+.forecast-date-time {
+    color: #fff;
+}

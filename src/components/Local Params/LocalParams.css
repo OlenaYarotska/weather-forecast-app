@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.date-text {
+    color: #fff;
+    font-size: 18px;
+
+}
+.location-text {
+    color: #fff;
+    font-size: 25px;
+}
